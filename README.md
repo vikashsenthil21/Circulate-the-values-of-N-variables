@@ -40,6 +40,5 @@ n=int(input())
 ## Output:
 ![donmass](python.png)
 
-
-
 ## Result:
+Thus the swapping of two values are successfully executed
