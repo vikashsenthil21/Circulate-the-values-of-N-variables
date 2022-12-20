@@ -41,4 +41,4 @@ n=int(input())
 ![donmass](python.png)
 
 ## Result:
-Thus the swapping of two values are successfully executed
+Thus the values of n variables are successfully circulated.
